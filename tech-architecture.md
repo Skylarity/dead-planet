@@ -4,7 +4,7 @@
 
 Firebase for realtime syncing and storage of game state?
 
-## Front-end
+## Frontend
 
 - Leaflet + canvas for map stuff
 - Vue for UI stuff?
