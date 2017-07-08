@@ -2,12 +2,12 @@
 
 ## Backend
 
-Firebase for realtime syncing and storage of game state?
+Firebase for realtime syncing and storage of game state
 
 ## Frontend
 
 - Leaflet + canvas for map stuff
-- Vue for UI stuff?
+- Vue for UI stuff
 
 ---
 
